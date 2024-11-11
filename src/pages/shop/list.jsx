@@ -1,4 +1,4 @@
-import Shop from './Shop'
+import Shop from './shop'
 
 const list = () => {
     return (
